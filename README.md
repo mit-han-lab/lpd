@@ -2,9 +2,11 @@
 
 ### [Paper](https://arxiv.org/abs/2507.01957) | [Model](https://huggingface.co/collections/mit-han-lab/lpd-68658dde87750bacd791e91c)
 
-<p align="left">
-    <img src="assets/vis.png"  width="1200">
-</p>
+## Demo
+
+⚡️Check out the lightning speed of LPD!
+
+https://github.com/user-attachments/assets/15e1effd-b534-4f6c-a229-eb15d208933b
 
 ## News
 
