@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/0117b50b-0f25-49b1-8530-9221916ce7bc
 
 ## News
 
+\[2026/02\] 🔥 LPD has been accepted to ICLR 2026 and selected as Oral!
 \[2025/07\] 🔥 We release the code and [models](https://huggingface.co/collections/mit-han-lab/lpd-68658dde87750bacd791e91c) for LPD!
 
 ## Abstract
