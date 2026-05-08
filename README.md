@@ -11,6 +11,8 @@ https://github.com/user-attachments/assets/0117b50b-0f25-49b1-8530-9221916ce7bc
 
 ## News
 
+\[2026/05\] 🔥 Oral presentation recording at ICLR 2026 is availabe on [YouTube](https://www.youtube.com/watch?v=cPeGBXXHxZM)!
+
 \[2026/03\] 🔥 Update the paper with additional 1024×1024 text-to-image generation results, expanded ablation studies, and a more comprehensive efficiency analysis.
 
 \[2026/02\] 🔥 LPD has been accepted to ICLR 2026 and selected as Oral!
